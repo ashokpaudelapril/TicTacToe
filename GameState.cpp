@@ -3,8 +3,6 @@
 // Author: Ashok Paudel
 // Collaborators: None
 // Date: 15 Apr, 2024
-// Assignment Number: PA#6
-// CS 2308 Spring 2024
 //
 // Description: 
 // This program implements a Tic-Tac-Toe game represented by a 3x3 grid.
