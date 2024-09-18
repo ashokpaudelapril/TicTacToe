@@ -3,8 +3,7 @@
 // Author: Ashok Paudel
 // Collaborators: None
 // Date: 15 Apr, 2024
-// Assignment Number: PA#6
-// CS 2308 Spring 2024
+
 //
 // Description: 
 // This file contains the implementation of the MoveStack class, 
